@@ -870,7 +870,6 @@ https://www.csuohio.edu
 https://www.csupueblo.edu
 https://www.csus.edu
 https://www.csusb.edu
-https://www.cu-portland.edu
 https://www.cu.edu
 https://www.cuesta.edu
 https://www.cui.edu/en-us
