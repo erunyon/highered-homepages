@@ -232,7 +232,7 @@ https://www.nemcc.edu
 https://www.normandale.edu
 https://www.northark.edu
 https://www.nsu.edu/
-httpw://nwti.edu
+https://nwti.edu
 https://www.nyu.edu
 https://www.orangecoastcollege.edu
 https://www.ou.edu
