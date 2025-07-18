@@ -699,7 +699,6 @@ https://www.averett.edu
 https://www.avila.edu
 https://www.azwestern.edu
 https://www.babson.edu
-https://www.bacone.edu
 https://www.baker.edu
 https://www.bakersfieldcollege.edu
 https://www.barry.edu
@@ -1103,7 +1102,6 @@ https://www.kent.edu
 https://www.kenyon.edu
 https://www.kettering.edu
 https://www.keuka.edu
-https://www.keystone.edu
 https://www.king.edu
 https://www.kings.edu
 https://www.knox.edu
@@ -1134,7 +1132,6 @@ https://www.lenoircc.edu
 https://www.liberty.edu
 https://www.life.edu
 https://www.limcollege.edu
-https://www.limestone.edu
 https://www.lincoln.edu
 https://www.lindsey.edu
 https://www.linfield.edu
@@ -1291,7 +1288,6 @@ https://www.northcentralcollege.edu
 https://www.northeastern.edu
 https://www.northernvermont.edu
 https://www.northlakecollege.edu
-https://www.northland.edu
 https://www.northpark.edu
 https://www.northwestern.edu
 https://www.norwich.edu
